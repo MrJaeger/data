@@ -1,0 +1,6 @@
+ipdb==0.10.0
+matplotlib==1.5.1
+numpy==1.11.0
+pandas==0.18.1
+seaborn==0.7.1
+scipy==0.17.1
